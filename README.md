@@ -6,9 +6,12 @@ Google Colab Link : [MobileNetV2-Alpaca-Classifier.ipynb](https://colab.research
 
 Dataset Link :- [kaggle](https://www.kaggle.com/sid4sal/alpaca-dataset-small) , [GDrive](https://drive.google.com/drive/folders/1IQr-ETDfTasqU3-V7-bQPO3AHFa7iuJR?usp=sharing)
 
-![](https://github.com/sid4sal/MobileNetV2-Alpaca-Classifier/blob/main/Images/train.png)
-![](https://github.com/sid4sal/MobileNetV2-Alpaca-Classifier/blob/main/Images/accuracy-loss-plot.png)
-![](https://github.com/sid4sal/MobileNetV2-Alpaca-Classifier/blob/main/Images/predictions.png)
+* Model Training (learning_rate = 0.0001, fine_tune_at = 120, epochs = 8)  
+    ![Model Training](https://github.com/sid4sal/MobileNetV2-Alpaca-Classifier/blob/main/Images/train.png)
+* Accuracy Plot  
+    ![Accuracy Plot](https://github.com/sid4sal/MobileNetV2-Alpaca-Classifier/blob/main/Images/accuracy-loss-plot.png)
+* Predictions on Validation Set images  
+    ![Predictions](https://github.com/sid4sal/MobileNetV2-Alpaca-Classifier/blob/main/Images/predictions.png)
 
 MIT License,
 Copyright (c) 2021 Siddhesh Sali
